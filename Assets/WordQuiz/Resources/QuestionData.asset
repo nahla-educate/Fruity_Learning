@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb7dfc20bd564d34bbb643ae523a897b, type: 3}
+  m_Name: QuestionData
+  m_EditorClassIdentifier: 
+  questions:
+  - questionImage: {fileID: 21300000, guid: c1dc1a2035239be46921728fd62c4d96, type: 3}
+    answer: Peach
+  - questionImage: {fileID: 21300000, guid: dea7f122b7ce50d4fba9f9e3fa9c5c6b, type: 3}
+    answer: Apple
+  - questionImage: {fileID: 21300000, guid: 8467742ebda78ca469f570ce3e6b96c3, type: 3}
+    answer: Banana
+  - questionImage: {fileID: 21300000, guid: f832b144ac17ead43973a37f68ec06ba, type: 3}
+    answer: Pear
+  - questionImage: {fileID: 21300000, guid: bf994177fafed164db2eb593cdb4c079, type: 3}
+    answer: Cherry
+  - questionImage: {fileID: 21300000, guid: 58026303fb18cac4c8ce29a556ce4f2e, type: 3}
+    answer: Orange
+  - questionImage: {fileID: 21300000, guid: 43a4a579511f90d44baa8dba16e6b03b, type: 3}
+    answer: Star
+  - questionImage: {fileID: 21300000, guid: a0a70540d8a758040a5087938fe8c843, type: 3}
+    answer: Melon

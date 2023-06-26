@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8cfd882a26561f141b76bed6044a3845, type: 3}
+  m_Name: MelonData
+  m_EditorClassIdentifier: 
+  questions:
+  - questionInfo: What season is melon in?
+    questionType: 1
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Summer
+    - Winter
+    - Spring
+    - Autunm
+    correctAns: Summer
+  - questionInfo: What vitamins are in melon?
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Vitamin C and vitamin  K
+    - Vitamin B12
+    - Vitamin C and vitamin B6
+    - Vitamin D
+    correctAns: Vitamin C and vitamin B6
+  - questionInfo: What is the color of the melon?
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Yellow
+    - Green
+    - Red
+    - Pink
+    correctAns: Yellow
+  - questionInfo: What is the main nutrient in melon?
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Water
+    - Oil
+    - Sugar
+    - coffee
+    correctAns: Water

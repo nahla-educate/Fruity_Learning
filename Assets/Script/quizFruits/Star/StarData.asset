@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 09b83606d3006f04da50413bd0e1cf03, type: 3}
+  m_Name: StarData
+  m_EditorClassIdentifier: 
+  questions:
+  - questionInfo: What is the second name of star?
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Musa
+    - Carambola
+    - lemon
+    - ruby
+    correctAns: Carambola
+  - questionInfo: What is the color of star?
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Pink green
+    - Red green
+    - Yellow green
+    - White green
+    correctAns: Yellow green
+  - questionInfo: What is star fruit?
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - An antioxidant fruit
+    - A toxic fruit
+    - A sweet fruit
+    - A juicy fruit
+    correctAns: An antioxidant fruit
+  - questionInfo: What is the benefit of star?
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Have a nutrient density
+    - Full of fiber
+    - Good for hearts
+    - Good for eyes
+    correctAns: Have a nutrient density
